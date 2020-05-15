@@ -1,6 +1,6 @@
 # Tugas 4 NodeJS
 
-NodeJS, ExpressJS, Mongoose, Membuat CRUD API (DELETE).
+NodeJS + ExpressJS + Mongoose, Membuat CRUD API (DELETE).
 
 DELETE :
 <br>
