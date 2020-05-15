@@ -28,9 +28,9 @@ var db = mongoose.connection;
 
 // added check for DB connection
 if(!db)
-    console.log("error connecting db")
+    console.log("Error Connecting Database..")
 else
-    console.log("db connected successfully")
+    console.log("Database Connected Successfully..")
 
 // setup server port
 var port = process.env.PORT || 8080;
